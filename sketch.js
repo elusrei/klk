@@ -5,6 +5,7 @@ function setup() {
   }
   //gola
   //que onda?
+  //nada, aca
   function draw() {
     var rrr = random(150, 175); //Random Red Rect
     var rgr = random(150, 175); //RAndom Green Rect
