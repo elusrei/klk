@@ -7,6 +7,7 @@ function setup() {
   //que onda?
   //nada, aca
   //vos sos del vscode o del navegador?
+  //del navegador, vos?
   function draw() {
     var rrr = random(150, 175); //Random Red Rect
     var rgr = random(150, 175); //RAndom Green Rect
