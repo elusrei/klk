@@ -4,6 +4,7 @@ function setup() {
     frameRate(0.75);
   }
   //gola
+//responde
   function draw() {
     var rrr = random(150, 175); //Random Red Rect
     var rgr = random(150, 175); //RAndom Green Rect
