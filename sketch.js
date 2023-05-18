@@ -3,7 +3,7 @@ function setup() {
     background(30, 20, 100);
     frameRate(0.75);
   }
-  
+  //gola
   function draw() {
     var rrr = random(150, 175); //Random Red Rect
     var rgr = random(150, 175); //RAndom Green Rect
